@@ -1,0 +1,6 @@
+union,education_yrs,experience_yrs,age,female,marr,south,manufacturing,construction
+1,25,17,43,0,1,0,1,0
+1,12,17,35,0,1,0,0,0
+0,12,36,54,0,0,0,0,0
+0,10,13,29,0,0,1,0,0
+1,12,19,37,0,1,0,0,1
